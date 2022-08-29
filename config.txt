@@ -1,0 +1,26 @@
+{
+
+"app_id": "wx41a01ee850cdfa64",
+
+"app_secret": "f385b967b7554dc11b42ca3bb830c105",
+
+"template_id": "vRpdLpxWnetmRjT6BQ-fpIIgCCUEB_zxtElEHKtuZ1I",
+
+"user": ["oUaXp6VdzbekRH6hVTljorojKQgA"],
+
+
+apikey
+"weather_key": "a0f3889dc8cb431a987f650139e9f502",
+apikey
+"tian_api": "d73fae9a7fba891458c80f4c520cbdb7",
+
+"region": "大同",
+
+"birthday1": {"name": "宝贝", "birthday": "2001-07-11"},
+
+"love_date": 2021-12-16"",
+
+"note_ch": "",
+
+"note_en": ""
+}
